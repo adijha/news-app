@@ -1,0 +1,1 @@
+web: json-server -w db.json
